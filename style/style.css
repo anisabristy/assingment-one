@@ -30,7 +30,7 @@ body{
     padding: 0;
 }
 .bnt{
-    border-radius: 8px;
+ border-radius: 8px;
    background: rgb(13, 19, 33);
    width: 200px;
    height: 60px;
@@ -276,7 +276,6 @@ text-align: center;
 .blog{
     width: 1140px;
 height: 50px;
-border: 2px solid green;
 margin-top: 40px;
 margin-left: 170px;
 margin-top: 50px;
@@ -290,8 +289,10 @@ justify-content: space-between;
     top: 20px;
     color: rgb(13, 19, 33);
     font-size: 13px;
+    margin: 5px;
 }
 .icone{
     position: relative;
     top: 20px;
+    margin: 5px;
 }
