@@ -17,10 +17,10 @@ body{
    flex-direction: column;
    justify-content: center;
    align-items: center;
+   margin-bottom: 70px;
 }
  .banner-1 p{
     color: rgb(13, 19, 33);
-    font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
@@ -37,4 +37,116 @@ body{
 }
 .ami{
     color: white;
+}
+.page2{
+    height: 1250px;
+    max-width: 1550px;
+    background: rgba(13, 19, 33, 0.02);
+   
+    
+}
+.part1{
+    display: flex;
+    height: 336px;
+    max-width: 1550px;
+   margin-left: 230px;
+   margin-right: 70px;
+   border-radius: 16px;
+   background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+
+.part2{
+    display: flex;
+    height: 336px;
+    max-width: 1550px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 40px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    
+}
+.part3{
+    display: flex;
+    height: 336px;
+    max-width: 1550px;
+    margin-left: 230px;
+    margin-right: 70px;    
+    margin-top: 40px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+#akash{
+    color: rgb(13, 19, 33);
+
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}
+#mow{
+ color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+.stpart1{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    
+
+}
+.stpart2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.page2 p{
+ 
+    color: rgb(13, 19, 33);
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.bnt{
+width: 150px;
+height: 48px;
+border: 1px solid rgb(13, 19, 33);
+background-color: white;
+color: rgb(13, 19, 33);
+}
+.ami2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+
+}
+.ami3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: right;
+    
+}
+.batash1{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+}
+.batash2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
